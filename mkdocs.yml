@@ -3,7 +3,7 @@ site_name: My Docs
 nav:
     - Home: index.md
     - wiki_build: wiki_build.md
-    - docker&k8s: docker&k8s/k8s基本入门概念.md
+    - docker&k8s: dockerAndk8s/k8s基本入门概念.md
     
 theme:
   name: 'material'
