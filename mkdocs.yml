@@ -1,0 +1,14 @@
+site_name: My Docs
+
+nav:
+    - Home: index.md
+    - wiki_build: wiki_build.md
+    
+theme:
+  name: 'material'
+  features:
+    - search.suggest
+    
+plugins:
+  - search:
+      lang: en
